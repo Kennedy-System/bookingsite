@@ -329,5 +329,22 @@ p .p-one {
 
 .dollar-textrow p {
     padding: 10px 0;
-    color: rgb(182, 182, 182);
+    color: #b6b6b6;
+}
+
+                /* FOOTER */
+
+.footer {
+    background-color: lightgrey;
+}
+
+.footer-one {
+    padding: 30px 80px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.column-one img {
+
 }
